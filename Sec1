@@ -1,0 +1,14 @@
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','3867','Oluwatobiloba Folorunso','A','tobisgreat121gmail.com','Sophomore','211');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','4988','Victoria Houndete','A ','victoria.houndetebison.howard.edu','Junior','211');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','3404','Aisha June','B','aisha.junebison.howard.edu','Sophomore','212');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','3344','Sasha Glass','C','sashaglass12gmail.com','Sophomore','213');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1258','Madison Henderson','D','madison.hendersonbison.howard.edu','Freshman','214');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','3599','Antonae Glenn','E','antonae.glennbison.howard.edu','Sophomore','215');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','4234','Jaela Nixon','E','jaela.nixonbison.howard.edu','Junior','215');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1188','Devon Stokes','F','devsto2002gmail.com','Freshman','216');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1709','Jayden Griggs','G','jay.griggs02gmail.com','Freshman','217');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1467','Nnayelu Oranuba','H','n.oranubayahoo.com','Freshman','218');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1573','Shandi Stubbs ','H','shandi.stubbsbison.howard.edu','Freshman','218');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1234','Hunter Bean','H','hunterbean2gmail.com','Freshman','218');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1943','Joshua Baron','I','Joshua.Baronbison.howard.edu','Freshman','219');
+INSERT INTO SECTION1_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('1','1594','Edwin Orr','I','edwin.orrbison.howard.edu','Freshman','219');
