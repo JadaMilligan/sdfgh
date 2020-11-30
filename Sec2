@@ -1,0 +1,14 @@
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1344','Avery Awadzi','A','avery.awadzigmail.com','Freshman','2110');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','3275','Sherifat Adewumi','B','sherifat.adewumibison.howard.edu','Sophomore','2111');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','4199','Elton Manengeri','B','','Junior','2111');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1486',' Simone Hicks','C','simonemaisonhicksgmail.com','Freshman','2112');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1807',' Miah Powell','C','miahpowell04gmail.com','Freshman','2112');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','4810',' Charles Bridge','D','cjbridge02gmail.com','Junior','2113');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','3709','Solomon Dozier','E','solomon.dozierbison.howard.edu','Freshman','2114');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','3509',' Jemel Rankins','F','jemel.rankinsbison.howard.edu','Freshman','2115');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1404','Olivia Ilanga','G','Olivia.ilangabison.howard.edu','Freshman','2116');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1991','Bryanna Anariba','G','b.anariba1127gmail.com','Sophomore','2116');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','3456',' Ernest Smither','G','esmither4gmail.com','Freshman','2116');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','3988','Sy\'al Sapp','H','syal.sappbison.howard.edu','Freshman','2117');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1246','Quavoris Wellington','H','quavoris.wellingtonbison.howard.edu','Freshman','2117');
+INSERT INTO SECTION2_T (SectionNum,StudentID,StudentName,Letter,Email,Year,TeamID) VALUES ('2','1864','Lina Suber','H','lina.suberbison.howard.edu','Freshman','2117');
